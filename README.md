@@ -16,3 +16,6 @@ List of devices attached
 ```
 ## Usage
 Just drag and drop the .apk file on to the APKInstaller.exe or double click on .apk file and select this app by browsing.
+
+## Download
+https://github.com/Segilmez06/WSA-APKInstaller/releases/latest
