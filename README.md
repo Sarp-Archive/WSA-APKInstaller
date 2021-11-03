@@ -2,8 +2,8 @@
 An app for installing APKs to WSA over Android Debug Bridge.
 
 ## Setup
-1) Enable developer options of WSA.
-2) Wait a few seconds. It will give you a ip and a port.
+1. Enable developer options of WSA.
+2. Wait a few seconds. It will give you a ip and a port.
 
 ## Usage
 Just drag and drop the .apk file on to the APKInstaller.exe or double click on .apk file and select this app by browsing.
